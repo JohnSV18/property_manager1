@@ -1,0 +1,9 @@
+/* .mainNavbar {
+    background-color: blueviolet;
+    border-bottom: 5px;
+    padding: 5px;
+} */
+.nameContainer {
+    color: yellow;
+    align-items: flex-start;
+}

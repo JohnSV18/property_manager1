@@ -1,17 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
-import Home from './Components/home'
+import Home from './Components/Home/home';
+import MainNavbar from './Components/Navbar/navbar';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Welcome to Property Manager 1
-        </p>
-        < Home />
-      </header>
+      < MainNavbar /> 
+      < Home />
     </div>
   );
 }

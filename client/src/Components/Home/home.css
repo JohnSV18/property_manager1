@@ -1,0 +1,12 @@
+.leaseVacancy {
+    text-align: center;
+}
+
+.leaseExpirations {
+    background-color: burlywood;
+    padding-bottom: 20px;
+}
+.inspectionDates {
+    background-color: olive;
+    padding-bottom: 20px;
+}
