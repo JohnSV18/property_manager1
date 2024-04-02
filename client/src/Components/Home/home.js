@@ -6,7 +6,7 @@ import './home.css'
 export default function Home() {
     return(
         <div className='leaseVacancy'style={{ display: 'block', width: '100%' , padding: 55 }}> 
-        <h4>Wethersfield & Emerson VIllage Management</h4> 
+        <h4>Wethersfield & Emerson Village Management</h4> 
             <Row className='d-flex justify-content-center' style={{gap: '25%'}}> 
                 <Col className='leaseExpirations'> 
                 Lease Expirations
